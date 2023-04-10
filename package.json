@@ -1,0 +1,37 @@
+{
+  "name": "dummy-languages",
+  "version": "0.0.0",
+  "engines": {
+    "vscode": "^0.0.0"
+  },
+  "contributes": {
+    "languages": [
+      { "id": "dummy-A" },
+      { "id": "dummy-B" },
+      { "id": "dummy-C" },
+      { "id": "dummy-D" },
+      { "id": "dummy-E" },
+      { "id": "dummy-F" },
+      { "id": "dummy-G" },
+      { "id": "dummy-H" },
+      { "id": "dummy-I" },
+      { "id": "dummy-J" },
+      { "id": "dummy-K" },
+      { "id": "dummy-L" },
+      { "id": "dummy-M" },
+      { "id": "dummy-N" },
+      { "id": "dummy-O" },
+      { "id": "dummy-P" },
+      { "id": "dummy-Q" },
+      { "id": "dummy-R" },
+      { "id": "dummy-S" },
+      { "id": "dummy-T" },
+      { "id": "dummy-U" },
+      { "id": "dummy-V" },
+      { "id": "dummy-W" },
+      { "id": "dummy-X" },
+      { "id": "dummy-Y" },
+      { "id": "dummy-Z" }
+    ]
+  }
+}
